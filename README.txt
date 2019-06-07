@@ -1,6 +1,6 @@
 Copyright Matthew Vowels 2018
 
-EmoTVrater_v1 README FILE 
+EmoTVrater_v2_0_1 README FILE 
 
 Instructions
 
@@ -25,5 +25,14 @@ You may also need to drag the app out of its folder, and then back in again (to 
 [IMPORTANT: SPECIFY THE FILE EXTENTION .txt or .csv]
 
 8. Text file will contain a header (participant ID) as well as two columns - emotion rating (column 1) and frame number (column 2).
+
+
+FEATURES:
+
+Spacebar pause/resume
+Adaptive playback resolution
+Cursor Centering
+
+
 
 Happy rating!
