@@ -17,3 +17,6 @@ If you have trouble with running:
 5. Drag ‘emoTVrater_v2’ from its folder onto your desktop (or anywhere, actually).
 6. Drag ‘emoTVrater_v2’ back into the original folder (sounds weird, I know!)
 7. Open – a warning might pop up, but click ok. Now – it should work!
+
+## Version Notes
+Mojave version 2.0.2 includes a rotation features (in case the video needs to be rotated). This feature is currently in a testing phase and is due be finalised in the next 6 months.
